@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    gibberish (2.1.0)
+    slop (4.6.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  gibberish
+  slop
+
+BUNDLED WITH
+   1.16.1
