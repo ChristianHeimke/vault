@@ -11,7 +11,8 @@ You also need a basic plain text vault (see example below) to encrypt (seal) or 
 To run vault, you need ruby in version 2.5 or higher. The easiest way is rvm[1] to manage it.
 
 ```
-gem install https://github.com/dockerist/vault.git
+gem sources -a https://gems.dockerist.io/
+gem install vault -v "0.0.1"
 ```
 
 If you want to see the option you have, just use the help:
